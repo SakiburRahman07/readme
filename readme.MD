@@ -101,10 +101,10 @@ All team members are students from the Department of CSE, KUET.
 ---
 
 ## Project Flow Diagram 
-`![Flow Diagram](photo/flow.png)`
+`![Flow Diagram](_photos/flow.png)`
 
 ## Database ER Diagram 
-`![ER Diagram](photo/erdiagram.png)`
+`![ER Diagram](_photos/erdiagram.png)`
 
 ## 🔗 API Endpoints
 
